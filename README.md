@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Akash Adak</h1>
 
-###
-
 <p align="left">I am a Full Stack Developer</p>
 
 ###
