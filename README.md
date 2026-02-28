@@ -1,70 +1,74 @@
-<h1 align="left">Hi 👋, I'm Akash Adak</h1>
+<h1 align="center">Hi 👋, I'm Akash Adak</h1>
+<h3 align="center">Full Stack Developer | React Learner | DSA Enthusiast</h3>
 
-<p align="left">I am a Full Stack Developer</p>
+---
 
-###
+## 👨‍💻 About Me
+- 🌱 Currently learning **React** and improving frontend skills  
+- 🤖 Exploring **AI** and modern web technologies  
+- 💬 Ask me about **Full Stack Development**  
+- 📚 Passionate about **technology, coding & problem solving**  
+- 💡 Currently focusing on **DSA + Development**
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🚀 Tech Stack
 
-<p align="left">🌱 I’m currently learning React<br>🤔 I’m looking for help with AI<br>💬 Ask me about Full Stack<br>📚 I’ve always been passionate about technology and coding.<br>💡 Currently focused on DSA and Development.</p>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css"/>
+</p>
 
-###
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind"/>
+</p>
 
-<h2 align="left">💻 Programing language</h2>
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h2 align="left">🔧 Tools I Use</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-</div>
-
-###
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-delta-teal-61.vercel.app/api?username=AkashAdak-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-delta-teal-61.vercel.app/api/top-langs?username=AkashAdak-coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashAdak-coder&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashAdak-coder&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
+---
 
+## 📈 Profile Visitors
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkashAdak-coder.AkashAdak-coder&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkashAdak-coder.AkashAdak-coder"/>
 </div>
 
-###
+---
+
+## 🎯 Current Goals
+- Master **React & Full Stack Development**
+- Strengthen **Data Structures & Algorithms**
+- Build **real-world scalable projects**
+- Learn and integrate **AI in web applications**
+
+---
+
+## 📫 Connect With Me
+- 💼 Open to collaboration on Web & AI projects  
+- 📧 Always ready to learn and grow as a developer
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
